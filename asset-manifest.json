@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pixabayweb/static/css/main.becbf8ef.chunk.css",
-    "main.js": "/pixabayweb/static/js/main.c6764b19.chunk.js",
-    "main.js.map": "/pixabayweb/static/js/main.c6764b19.chunk.js.map",
+    "main.js": "/pixabayweb/static/js/main.ea19e3e2.chunk.js",
+    "main.js.map": "/pixabayweb/static/js/main.ea19e3e2.chunk.js.map",
     "runtime~main.js": "/pixabayweb/static/js/runtime~main.1f5cb15f.js",
     "runtime~main.js.map": "/pixabayweb/static/js/runtime~main.1f5cb15f.js.map",
     "static/js/2.16faf3e2.chunk.js": "/pixabayweb/static/js/2.16faf3e2.chunk.js",
     "static/js/2.16faf3e2.chunk.js.map": "/pixabayweb/static/js/2.16faf3e2.chunk.js.map",
     "index.html": "/pixabayweb/index.html",
-    "precache-manifest.502fe5d22c2b6e22fd3c4425ede36d97.js": "/pixabayweb/precache-manifest.502fe5d22c2b6e22fd3c4425ede36d97.js",
+    "precache-manifest.64319e2bc1653113a0e156a141eb137b.js": "/pixabayweb/precache-manifest.64319e2bc1653113a0e156a141eb137b.js",
     "service-worker.js": "/pixabayweb/service-worker.js",
     "static/css/main.becbf8ef.chunk.css.map": "/pixabayweb/static/css/main.becbf8ef.chunk.css.map"
   }
